@@ -1,2 +1,17 @@
 # FindingGame-MFC
-Use MFC to code a simple Finding Game.使用MFC制作简易的找茬找不同游戏。
+
+使用MFC制作简易的找不同游戏.
+
+Windows程序设计作业，开发环境为VisualStudio 2013.
+
+代码简单，有注释.
+
+===== Finding 功能实现 =====
+
+1.每次圈出一对不同点
+
+2.找出所有点，进入下一关
+
+3.有分数提示
+
+4.有倒计时时间条，时间结束游戏结束
